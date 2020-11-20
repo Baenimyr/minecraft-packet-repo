@@ -1,0 +1,118 @@
+name: optifine
+displayName: Optifine
+version: 1.16.4-G5
+section: mod
+url: https://optifine.net
+description: |-
+    OptiFine is a Minecraft optimization mod.
+    It allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.
+sources:
+    "mods/": src/OptiFine_1.16.4_HD_U_G5.jar
+depends:
+    forge: "[35.0.1,36)"
+    minecraft: 1.16.4
+conflicts:
+    sodium: all
+    lithium: "(,)"
+---
+
+name: optifine
+displayName: Optifine
+version: 1.16.3-G3
+section: mod
+url: https://optifine.net
+description: |-
+    OptiFine is a Minecraft optimization mod.
+    It allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.
+sources:
+    "mods/": src/OptiFine_1.16.3_HD_U_G3.jar
+depends:
+    forge: "[34.1.42,35)"
+    minecraft: 1.16.3
+conflicts:
+    sodium: all
+    lithium: "(,)"
+---
+
+name: optifine
+displayName: Optifine
+version: 1.16.1-G2
+section: mod
+url: https://optifine.net
+description: |-
+    OptiFine is a Minecraft optimization mod.
+    It allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.
+sources:
+    "mods/": src/OptiFine_1.16.1_HD_U_G2.jar
+depends:
+    forge: "[32.0.98,33)"
+    minecraft: 1.16.1
+conflicts:
+    sodium: all
+    lithium: "(,)"
+---
+
+name: optifine
+displayName: Optifine
+version: 1.14.4-F5
+section: mod
+url: https://optifine.net
+description: |-
+    OptiFine is a Minecraft optimization mod.
+    It allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.
+sources:
+    "mods/": src/OptiFine_1.14.4_HD_U_F5.jar
+depends:
+    forge: "[28.1.56,29)"
+    minecraft: 1.14.4
+conflicts:
+    sodium: all
+    lithium: "(,)"
+---
+
+name: optifine
+displayName: Optifine
+version: 1.13.2-F5
+section: mod
+url: https://optifine.net
+description: |-
+    OptiFine is a Minecraft optimization mod.
+    It allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.
+sources:
+    "mods/": src/OptiFine_1.13.2_HD_U_F5.jar
+depends:
+    forge: "[25.0.90,26)"
+    minecraft: 1.13.2
+conflicts:
+    sodium: all
+    lithium: "(,)"
+---
+
+name: optifine
+displayName: Optifine
+version: 1.12.2-F5
+section: mod
+url: https://optifine.net
+description: |-
+    OptiFine is a Minecraft optimization mod.
+    It allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.
+sources:
+    "mods/": src/OptiFine_1.12.2_HD_U_F5.jar
+depends:
+    forge: "[14.23.5.2847,14.24)"
+    minecraft: 1.12.2
+---
+
+name: optifine
+displayName: Optifine
+version: 1.12.2-E3
+section: mod
+url: https://optifine.net
+description: |-
+    OptiFine is a Minecraft optimization mod.
+    It allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.
+sources:
+    "mods/": src/OptiFine_1.12.2_HD_U_E3.jar
+depends:
+    forge: "[14.23.5.2795,14.24)"
+    minecraft: 1.12.2

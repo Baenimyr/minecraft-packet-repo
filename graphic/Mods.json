@@ -1,0 +1,136 @@
+[
+        {
+            "filename": "/media/Data/MinecraftForge/repo/graphic/optifine-1.16.4-G5.tar",
+            "displayName": "Optifine",
+            "name": "optifine",
+            "description": "OptiFine is a Minecraft optimization mod.\nIt allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.",
+            "conflicts": {
+                "sodium": "(,)",
+                "lithium": "(,)"
+            },
+            "files": {
+                "mods/OptiFine_1.16.4_HD_U_G5.jar": {"sha256": "210205a6216f345b4e7af01c8d51ba7633266af610d56c01ae1d9a35a72677d2"},
+                "mods.json": {"sha256": "a13dac1c9c0b5b59d521010b4ec6b2db6c250e41e808c323e5bb47686107297b"}
+            },
+            "section": "mod",
+            "version": "1.16.4-G5",
+            "dependencies": {
+                "minecraft": "[1.16.4,1.16.5)",
+                "forge": "[35.0.1,36.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/graphic/optifine-1.13.2-F5.tar",
+            "displayName": "Optifine",
+            "name": "optifine",
+            "description": "OptiFine is a Minecraft optimization mod.\nIt allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.",
+            "conflicts": {
+                "sodium": "(,)",
+                "lithium": "(,)"
+            },
+            "files": {
+                "mods/OptiFine_1.13.2_HD_U_F5.jar": {"sha256": "065938b02c8d2d3e0441fe4e87815a42f45b9ffc9781a6d0b596d84e126bee78"},
+                "mods.json": {"sha256": "b5ee591f96a5aab9fcaf0f55a22929f1eddc7897b1580bbd706ab7ccc601ec26"}
+            },
+            "section": "mod",
+            "version": "1.13.2-F5",
+            "dependencies": {
+                "minecraft": "[1.13.2,1.13.3)",
+                "forge": "[25.0.90,26.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/graphic/optifine-1.16.3-G3.tar",
+            "displayName": "Optifine",
+            "name": "optifine",
+            "description": "OptiFine is a Minecraft optimization mod.\nIt allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.",
+            "conflicts": {
+                "sodium": "(,)",
+                "lithium": "(,)"
+            },
+            "files": {
+                "mods/OptiFine_1.16.3_HD_U_G3.jar": {"sha256": "39e3b20ac72135f857a1515e8843f64037f62ed60a7ea917bf4ab9c483f4b06a"},
+                "mods.json": {"sha256": "4b306636fc4a55a6cb1110eec39260ea43898e94a4fb6ce4ebce9573d8efd4eb"}
+            },
+            "section": "mod",
+            "version": "1.16.3-G3",
+            "dependencies": {
+                "minecraft": "[1.16.3,1.16.4)",
+                "forge": "[34.1.42,35.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/graphic/optifine-1.14.4-F5.tar",
+            "displayName": "Optifine",
+            "name": "optifine",
+            "description": "OptiFine is a Minecraft optimization mod.\nIt allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.",
+            "conflicts": {
+                "sodium": "(,)",
+                "lithium": "(,)"
+            },
+            "files": {
+                "mods.json": {"sha256": "90fd6b3955ef46a01c9fe82bb6a46d2569e81e0c26d404b0f77a0dcc0ad24e57"},
+                "mods/OptiFine_1.14.4_HD_U_F5.jar": {"sha256": "053606de560f9ee47baf646b37239ca4fcca4331235e09dbe7f8250f0ab197fc"}
+            },
+            "section": "mod",
+            "version": "1.14.4-F5",
+            "dependencies": {
+                "minecraft": "[1.14.4,1.14.5)",
+                "forge": "[28.1.56,29.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/graphic/optifine-1.12.2-F5.tar",
+            "displayName": "Optifine",
+            "name": "optifine",
+            "description": "OptiFine is a Minecraft optimization mod.\nIt allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.",
+            "conflicts": {},
+            "files": {
+                "mods/OptiFine_1.12.2_HD_U_F5.jar": {"sha256": "fc70db439793b257228ad50dbb497dd50e33c3e08f7d0d6b2bba3a7d7c349619"},
+                "mods.json": {"sha256": "21d2acfebd4cb088fe3ea907868e01a070e2f99ab3d91fdf2fe49f5aa5db687c"}
+            },
+            "section": "mod",
+            "version": "1.12.2-F5",
+            "dependencies": {
+                "minecraft": "[1.12.2,1.12.3)",
+                "forge": "[14.23.5.2847,14.24.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/graphic/optifine-1.12.2-E3.tar",
+            "displayName": "Optifine",
+            "name": "optifine",
+            "description": "OptiFine is a Minecraft optimization mod.\nIt allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.",
+            "conflicts": {},
+            "files": {
+                "mods/OptiFine_1.12.2_HD_U_E3.jar": {"sha256": "470f5a83a63bb2f0f361b84fe4bfad8423cb54d730f31dbb530d81b05f2d99dd"},
+                "mods.json": {"sha256": "79d4e7d3e9c834b7660092988cd6b0745b2d92131c1d524fa04f318c26b16758"}
+            },
+            "section": "mod",
+            "version": "1.12.2-E3",
+            "dependencies": {
+                "minecraft": "[1.12.2,1.12.3)",
+                "forge": "[14.23.5.2795,14.24.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/graphic/optifine-1.16.1-G2.tar",
+            "displayName": "Optifine",
+            "name": "optifine",
+            "description": "OptiFine is a Minecraft optimization mod.\nIt allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.",
+            "conflicts": {
+                "sodium": "(,)",
+                "lithium": "(,)"
+            },
+            "files": {
+                "mods/OptiFine_1.16.1_HD_U_G2.jar": {"sha256": "bb38be37e2c7b26776a6fd6aede86f9dcdcfb00d4ebd74d7ec54a0dec6ee8bbf"},
+                "mods.json": {"sha256": "902f421ec1a12e8fc81a63f8973c56cb4556bd5cae8235f9c6f3f0e222bbc303"}
+            },
+            "section": "mod",
+            "version": "1.16.1-G2",
+            "dependencies": {
+                "minecraft": "[1.16.1,1.16.2)",
+                "forge": "[32.0.98,33.0.0)"
+            }
+        }
+    ]
