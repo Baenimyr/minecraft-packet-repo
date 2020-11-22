@@ -1,6 +1,8 @@
 # MinecraftPacket Repo
 
-## Packet
+## Repositories
+Build in progress
+- [graphic](/graphic/README.md)
 
 
 ## Build script
@@ -24,22 +26,22 @@ Sources are optional if you want to create a metapacket.
 
 For exemple
 ```yml
+# This is optifine for Forge 1.16.3
 name: optifine
 displayName: Optifine
 version: 1.16.3-G3
 section: mod
 url: https://optifine.net
-description: |
+description: |-
     OptiFine is a Minecraft optimization mod.
     It allows Minecraft to run faster and look better with full support for shaders, HD textures and many configuration options.
 sources:
     "mods/": OptiFine_1.16.3_HD_U_G3.jar
-
 depends:
     forge: "[34.1.42,35)"
     minecraft: 1.16.3
 conflicts:
-    sodium: all
+    sodium: all  # for the example: Optifine fabric is in conflit
     lithium: "(,)"
 ---
 name: ...

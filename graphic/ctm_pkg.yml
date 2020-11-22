@@ -1,0 +1,51 @@
+name: ctm
+displayName: ConnectedTexturesMod
+version: 1.16.1-1.1.1.5
+section: mod
+url: https://chisel.team/ctm
+description: Allows resource packs to add connected textures, emissive rendering, and much more.
+sources:
+    "mods/": src/CTM-MC1.16.1-1.1.1.5.jar
+depends:
+    forge: "[32.0.108,33)"
+    minecraft: 1.16.1
+---
+
+name: ctm
+displayName: ConnectedTexturesMod
+version: 1.15.2-1.1.1.13
+section: mod
+url: https://chisel.team/ctm
+description: Allows resource packs to add connected textures, emissive rendering, and much more.
+sources:
+    "mods/": src/CTM-MC1.15.2-1.1.1.13.jar
+depends:
+    forge: "[31.2,32)"
+    minecraft: 1.15.2
+---
+
+name: ctm
+displayName: ConnectedTexturesMod
+version: 1.12.2-1.0.2.31
+section: mod
+url: https://chisel.team/ctm
+description: Allows resource packs to add connected textures, emissive rendering, and much more.
+sources:
+    "mods/": src/CTM-MC1.12.2-1.0.2.31.jar
+depends:
+    forge: "[14.23.5,14.24)"
+    minecraft: 1.12.2
+---
+
+
+
+name: ctp
+displayName: ConnectedTexturePack
+version: 1.2
+section: resource
+description: Adds CTM to Vanilla Blocks plus some Modded Blocks!
+sources:
+    "texturepacks/": src/ctp_1.2_MCv3.zip
+depends:
+    minecraft: 1.12
+    ctm: 1.12

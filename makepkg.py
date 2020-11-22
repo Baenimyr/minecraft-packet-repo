@@ -72,7 +72,9 @@ def create_hash(ENV: dict):
 
 
 def _check_version(v) -> str:
-	if v is None or v.lower() == "any" or v.lower() == "all":
+	if isinstance(v, (int, float)):
+		return str(v)
+	elif v is None or v.lower() == "any" or v.lower() == "all":
 		return "(,)"
 	else:
 		return v
@@ -84,10 +86,11 @@ def gen_MOD(ENV: Dict[str, str], data: Dict[str, str]):
 	pkg_data = dict()
 	pkg_data["name"] = data["name"]
 	pkg_data["displayName"] = data["displayName"]
-	pkg_data["version"] = data["version"]
-	pkg_data["url"] = data["url"]
+	pkg_data["version"] = str(data["version"])
 	pkg_data["description"] = data["description"]
 	pkg_data["section"] = data["section"]
+	if "url" in data:
+		pkg_data["url"] = data["url"]
 
 	data.setdefault("depends", dict())
 	data.setdefault("conflicts", dict())
