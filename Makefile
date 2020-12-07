@@ -1,4 +1,17 @@
-.PHONY: optifine
+MAKEPKG=python3 makepkg.py
+
+.PHONY: optifine ctm main
+
+clean:
+	rm -r build
 
 optifine:
-	python3 makepkg.py graphic --pkgfile optifine_pkg.yml
+	@$(MAKEPKG) graphic/optifine_pkg.yml -Dsrcdir=$(SRCDIR)
+	
+ctm:
+	@$(MAKEPKG) graphic/ctm_pkg.yml -Dsrcdir=$(SRCDIR)
+	
+main:
+	@$(MAKEPKG) main/i/immersiveengineering.yml main/r/refinedstorage.yml main/s/storagedrawers.yml -Dsrcdir=$(SRCDIR)
+	
+all: optifine ctm main

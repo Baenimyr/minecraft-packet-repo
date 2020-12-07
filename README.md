@@ -7,10 +7,12 @@ Build in progress
 
 ## Build script
 `makepkg.py` can help you building a packet.
-Create a _minecraft\_pkg.yml_ file where you want and use the command below to build all the packages declared in the file.
+Create a yml file where you want and use the command below to build all the packages declared in the file.
 ```sh
-python3 makepkg.py DIR
+python3 makepkg.py DIR/file.yml
 ```
+
+You can declare external variables like `srcdir` with the command `-Dsrcdir=...`.
 
 ### Fields
 - name: the universal identifier (_modid_ in MinecraftForge)
@@ -27,7 +29,7 @@ Sources are optional if you want to create a metapacket.
 For exemple
 ```yml
 # This is optifine for Forge 1.16.3
-name: optifine
+name: optifine-forge
 displayName: Optifine
 version: 1.16.3-G3
 section: mod
@@ -46,3 +48,9 @@ conflicts:
 ---
 name: ...
 ```
+
+#### Note on name
+Please use `_` rather than `-` in the rest of the name, `-` must be kept for special naming like below.
+
+If you want to make distinction between forge and fabric add `-forge` or `-fabric` at the end of the name, not at the beginning.
+This way the real modid is present first, like in `optifine-forge` or `optifine-fabric`.
