@@ -1,0 +1,48 @@
+name: storagedrawers
+displayName: StorageDrawers
+version: 8.2.1
+section: mod
+url: https://minecraft.curseforge.com/projects/storagedrawers
+description: Multi-drawer storage blocks for quick storage and retrieval.
+sources:
+    "mods/": ${srcdir}/${name}/${displayName}-1.16.3-${version}.jar
+depends:
+    forge: "[34.1.14,35)"
+    minecraft: "1.16.3"
+---
+name: storagedrawers
+displayName: StorageDrawers
+version: 8.1.0
+section: mod
+url: https://minecraft.curseforge.com/projects/storagedrawers
+description: Multi-drawer storage blocks for quick storage and retrieval.
+sources:
+    "mods/": ${srcdir}/${name}/${displayName}-1.16.2-${version}.jar
+depends:
+    forge: "[33,34)"
+    minecraft: "1.16.2"
+---
+name: storagedrawers
+displayName: StorageDrawers
+version: 8.0.0
+section: mod
+url: https://minecraft.curseforge.com/projects/storagedrawers
+description: Multi-drawer storage blocks for quick storage and retrieval.
+sources:
+    "mods/": ${srcdir}/${name}/${displayName}-1.16.1-${version}.jar
+depends:
+    forge: "[32,33)"
+    minecraft: "1.16.1"
+---
+name: storagedrawers
+displayName: StorageDrawers
+version: 5.4.0
+section: mod
+url: https://minecraft.curseforge.com/projects/storagedrawers
+description: Multi-drawer storage blocks for quick storage and retrieval.
+sources:
+    "mods/": ${srcdir}/${name}/${displayName}-1.12.2-${version}.jar
+depends:
+    forge: "any"
+    minecraft: "1.12.2"
+    chameleon: "any"

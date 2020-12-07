@@ -1,0 +1,33 @@
+name: refinedstorage
+displayName: RefinedStorage
+version: 1.9.9
+section: mod
+url: "https://refinedmods.com/refined-storage"
+description: An elegant solution to your hoarding problem
+sources:
+    "mods/": ${srcdir}/${name}/${name}-${version}.jar
+depends:
+    forge: "[34.1.0,35)"
+---
+name: refinedstorage
+displayName: RefinedStorage
+version: 1.9.5
+section: mod
+url: "https://refinedmods.com/refined-storage"
+description: An elegant solution to your hoarding problem
+sources:
+    "mods/": ${srcdir}/${name}/${name}-${version}.jar
+depends:
+    forge: "[33.0.20,34)"
+---
+name: refinedstorage
+displayName: RefinedStorage
+version: 1.9.2
+section: mod
+url: "https://refinedmods.com/refined-storage"
+description: An elegant solution to your hoarding problem
+sources:
+    "mods/": ${srcdir}/${name}/${name}-${version}.jar
+depends:
+    forge: "[32.0.67,33)"
+

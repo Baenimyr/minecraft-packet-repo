@@ -1,0 +1,76 @@
+name: biomesoplenty
+displayName: Biomes O' Plenty
+version: 13.0.0.422
+section: mod
+url: https://minecraft.curseforge.com/projects/biomes-o-plenty
+description: Adds over 50 new biomes, blocks, and more!
+sources:
+    "mods/": ${srcdir}/${name}/BiomesOPlenty-1.16.4-${version}-universal.jar
+depends:
+    forge: "[35.0.2,36)"
+    minecraft: "1.16.4"
+---
+
+name: biomesoplenty
+displayName: Biomes O' Plenty
+version: 12.0.0.417
+section: mod
+url: https://minecraft.curseforge.com/projects/biomes-o-plenty
+description: Adds over 50 new biomes, blocks, and more!
+sources:
+    "mods/": ${srcdir}/${name}/BiomesOPlenty-1.16.3-${version}-universal.jar
+depends:
+    forge: "[34.1.33,35)"
+    minecraft: "1.16.3"
+---
+
+name: biomesoplenty
+displayName: Biomes O' Plenty
+version: 11.0.0.395
+section: mod
+url: https://minecraft.curseforge.com/projects/biomes-o-plenty
+description: Adds over 50 new biomes, blocks, and more!
+sources:
+    "mods/": ${srcdir}/${name}/BiomesOPlenty-1.16.1-${version}-universal.jar
+depends:
+    forge: "[32.0.61,33)"
+    minecraft: "1.16.1"
+---
+
+name: biomesoplenty
+displayName: Biomes O' Plenty
+version: 10.0.0.366
+section: mod
+url: https://minecraft.curseforge.com/projects/biomes-o-plenty
+description: Adds over 50 new biomes, blocks, and more!
+sources:
+    "mods/": ${srcdir}/${name}/BiomesOPlenty-1.15.2-${version}-universal.jar
+depends:
+    forge: "[31.2,32)"
+    minecraft: "1.15.2"
+---
+
+name: biomesoplenty
+displayName: Biomes O' Plenty
+version: 9.0.0.250
+section: mod
+url: https://minecraft.curseforge.com/projects/biomes-o-plenty
+description: Adds over 50 new biomes, blocks, and more!
+sources:
+    "mods/": ${srcdir}/${name}/BiomesOPlenty-1.14.4-${version}-universal.jar
+depends:
+    forge: "[28.2,25)"
+    minecraft: "1.14.4"
+---
+
+name: biomesoplenty
+displayName: Biomes O' Plenty
+version: 7.0.1.2444
+section: mod
+url: https://minecraft.curseforge.com/projects/biomes-o-plenty
+description: Adds over 50 new biomes, blocks, and more!
+sources:
+    "mods/": ${srcdir}/${name}/BiomesOPlenty-1.12.2-${version}-universal.jar
+depends:
+    forge: "[14.23.5.2854,14.24)"
+    minecraft: "1.12.2"

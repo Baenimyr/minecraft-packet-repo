@@ -1,0 +1,398 @@
+[
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/t/tconstruct_1.8.8.tar",
+            "displayName": "Tinkers' Construct",
+            "name": "tconstruct",
+            "description": "A little of this, a little of that, a lot of tinkering, and a lot of tools",
+            "conflicts": {},
+            "files": {"mods/TConstruct-1.7.10-1.8.8.jar": {"sha256": "a718bc2c11e58cc92a8ad96d5c56b34c60b6176322b3dee8eff0f6e581877ec5"}},
+            "section": "any",
+            "version": "1.8.8",
+            "dependencies": {"minecraft": "[1.7.10,1.7.11)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/t/tconstruct_2.7.1.34.tar",
+            "displayName": "Tinkers' Construct",
+            "name": "tconstruct",
+            "description": "A little of this, a little of that, a lot of tinkering, and a lot of tools",
+            "conflicts": {},
+            "files": {"mods/TConstruct-1.11.2-2.7.1.34.jar": {"sha256": "2d7f4a08edda2881a432cd80ff26575ccea593fcc8a597a435652c1a53b14cb8"}},
+            "section": "any",
+            "version": "2.7.1.34",
+            "dependencies": {"minecraft": "[1.11.2,1.11.3)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/t/tconstruct_2.13.0.171.tar",
+            "displayName": "Tinkers' Construct",
+            "name": "tconstruct",
+            "description": "A little of this, a little of that, a lot of tinkering, and a lot of tools",
+            "conflicts": {},
+            "files": {"mods/TConstruct-1.12.2-2.13.0.171.jar": {"sha256": "a644454c4b2272c3c94c71d9d54f5befe1a42703bc1a879449c30ba21169d05d"}},
+            "section": "any",
+            "version": "2.13.0.171",
+            "dependencies": {"minecraft": "[1.12.2,1.12.3)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/t/tconstruct_2.12.0.157.tar",
+            "displayName": "Tinkers' Construct",
+            "name": "tconstruct",
+            "description": "A little of this, a little of that, a lot of tinkering, and a lot of tools",
+            "conflicts": {},
+            "files": {"mods/TConstruct-1.12.2-2.12.0.157.jar": {"sha256": "c7830c8a26bb7d8d6c8b5b4a3e5692fbe4679c68a292bc3f02f089f70ae72804"}},
+            "section": "any",
+            "version": "2.12.0.157",
+            "dependencies": {"minecraft": "[1.12.2,1.12.3)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/t/tconstruct_2.6.5.10.tar",
+            "displayName": "Tinkers' Construct",
+            "name": "tconstruct",
+            "description": "A little of this, a little of that, a lot of tinkering, and a lot of tools",
+            "conflicts": {},
+            "files": {"mods/TConstruct-1.10.2-2.6.5.jar": {"sha256": "bf9cb4e992f02500904a828181782486f2b8dd5f891d7972403ce92622917060"}},
+            "section": "any",
+            "version": "2.6.5.10",
+            "dependencies": {"minecraft": "[1.10.2,1.10.3)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/j/jeresources-0.8.9.tar",
+            "displayName": "Just Enough Resources",
+            "name": "jeresources",
+            "description": "Adds Resources and Mob Drops to JEI",
+            "conflicts": {},
+            "files": {"mods/JustEnoughResources-1.12.2-0.8.9.48.jar": {"sha256": "ce09f00a41b687864917d20110fe97ca334d1c31597b96f9f5510ae1e832c716"}},
+            "section": "any",
+            "version": "0.8.9",
+            "dependencies": {
+                "minecraft": "[1.12.2,1.12.3)",
+                "jei": "(,)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/j/jeresources-0.9.2.tar",
+            "displayName": "Just Enough Resources",
+            "name": "jeresources",
+            "description": "Adds Resources and Mob Drops to JEI",
+            "conflicts": {},
+            "files": {"mods/JustEnoughResources-1.12.2-0.9.2.60.jar": {"sha256": "9ea4d7df19c0a53880aae5e745ef1e886854bea5c533878688587a5e3fdaebdd"}},
+            "section": "any",
+            "version": "0.9.2",
+            "dependencies": {
+                "minecraft": "[1.12.2,1.12.3)",
+                "jei": "(,)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/i/immersiveengineering-4.1.1.tar",
+            "displayName": "ImmersiveEngineering",
+            "name": "immersiveengineering",
+            "description": "A tech based mod focused on realism.",
+            "conflicts": {},
+            "files": {"mods/ImmersiveEngineering-1.16.4-4.1.1-128.jar": {"sha256": "dffb16b11f0add6e50d7ddaf5bd93fa8ec1b3d7e60ab2744c7f14a48b94d9f73"}},
+            "section": "mod",
+            "version": "4.1.1",
+            "dependencies": {
+                "minecraft": "[1.16.4,1.16.5)",
+                "forge": "[35.0.0,36.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/i/immersiveengineering-3.2.0.tar",
+            "displayName": "ImmersiveEngineering",
+            "name": "immersiveengineering",
+            "description": "A tech based mod focused on realism.",
+            "conflicts": {},
+            "files": {"mods/ImmersiveEngineering-1.16.1-3.2.0-115.jar": {"sha256": "de23153975d8b6c917f4fbb5c91151f87e09afb5d49dc121d73b7c8c0ae86e32"}},
+            "section": "mod",
+            "version": "3.2.0",
+            "dependencies": {
+                "minecraft": "[1.16.1,1.16.2)",
+                "forge": "[32.0.99,33.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/b/biomesoplenty-10.0.0.366.tar",
+            "displayName": "Biomes O' Plenty",
+            "name": "biomesoplenty",
+            "description": "Adds over 50 new biomes, blocks, and more!",
+            "conflicts": {},
+            "files": {"mods/BiomesOPlenty-1.15.2-10.0.0.366-universal.jar": {"sha256": "fa450eb93cce9cf16f88bcb0dd48ff8abbd163981ea54dabd27cc0b6e110f99c"}},
+            "section": "mod",
+            "version": "10.0.0.366",
+            "dependencies": {
+                "minecraft": "[1.15.2,1.15.3)",
+                "forge": "[31.2.0,32.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/b/biomesoplenty-12.0.0.417.tar",
+            "displayName": "Biomes O' Plenty",
+            "name": "biomesoplenty",
+            "description": "Adds over 50 new biomes, blocks, and more!",
+            "conflicts": {},
+            "files": {"mods/BiomesOPlenty-1.16.3-12.0.0.417-universal.jar": {"sha256": "d7b3bf9f5ac4d13800b86cf67a932753bc70bb1015a084b500d6467fc09e46b9"}},
+            "section": "mod",
+            "version": "12.0.0.417",
+            "dependencies": {
+                "minecraft": "[1.16.3,1.16.4)",
+                "forge": "[34.1.33,35.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/b/biomesoplenty-13.0.0.422.tar",
+            "displayName": "Biomes O' Plenty",
+            "name": "biomesoplenty",
+            "description": "Adds over 50 new biomes, blocks, and more!",
+            "conflicts": {},
+            "files": {"mods/BiomesOPlenty-1.16.4-13.0.0.422-universal.jar": {"sha256": "3088e7e740f72962ac9158f4901a909ef2ad0d56323e2489588798956dd0abf2"}},
+            "section": "mod",
+            "version": "13.0.0.422",
+            "dependencies": {
+                "minecraft": "[1.16.4,1.16.5)",
+                "forge": "[35.0.2,36.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/b/biomesoplenty-11.0.0.395.tar",
+            "displayName": "Biomes O' Plenty",
+            "name": "biomesoplenty",
+            "description": "Adds over 50 new biomes, blocks, and more!",
+            "conflicts": {},
+            "files": {"mods/BiomesOPlenty-1.16.1-11.0.0.395-universal.jar": {"sha256": "67549350e3920a8d70eb77b467c289d6d03e24ae43bfce78b0b9ecbb6e1d303c"}},
+            "section": "mod",
+            "version": "11.0.0.395",
+            "dependencies": {
+                "minecraft": "[1.16.1,1.16.2)",
+                "forge": "[32.0.61,33.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/b/biomesoplenty-9.0.0.250.tar",
+            "displayName": "Biomes O' Plenty",
+            "name": "biomesoplenty",
+            "description": "Adds over 50 new biomes, blocks, and more!",
+            "conflicts": {},
+            "files": {"mods/BiomesOPlenty-1.14.4-9.0.0.250-universal.jar": {"sha256": "83c44fa8287c96ef82b0399145da6c067bb5a382851318ef50d8d4618f3d400c"}},
+            "section": "mod",
+            "version": "9.0.0.250",
+            "dependencies": {
+                "minecraft": "[1.14.4,1.14.5)",
+                "forge": "[28.2.0,25.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/b/biomesoplenty-7.0.1.2444.tar",
+            "displayName": "Biomes O' Plenty",
+            "name": "biomesoplenty",
+            "description": "Adds over 50 new biomes, blocks, and more!",
+            "conflicts": {},
+            "files": {"mods/BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar": {"sha256": "33343221c7b84098b41b093db8f2a4def42cc776beb18f5e3d354a321720e286"}},
+            "section": "mod",
+            "version": "7.0.1.2444",
+            "dependencies": {
+                "minecraft": "[1.12.2,1.12.3)",
+                "forge": "[14.23.5.2854,14.24.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/d/dynamictrees_0.9.6.tar",
+            "displayName": "Dynamic Trees",
+            "name": "dynamictrees",
+            "description": "Progressively growing trees.. forests that spread",
+            "conflicts": {},
+            "files": {"mods/DynamicTrees-1.12.2-0.9.6.jar": {"sha256": "56a94dd48efa8a20d880883c244b7aa75b0dfba2b5a4076596ceadfe4255ccc4"}},
+            "section": "any",
+            "version": "0.9.6",
+            "dependencies": {"minecraft": "[1.12.2,1.12.3)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/d/dynamictrees_0.7.8.tar",
+            "displayName": "Dynamic Trees",
+            "name": "dynamictrees",
+            "description": "Progressively growing trees.. forests that spread",
+            "conflicts": {},
+            "files": {"mods/DynamicTrees-1.12.2-0.7.8.jar": {"sha256": "3c5c1b8e448cb41035ec87c2a4615849e2b9b70425adcf237cd0938b5339e25a"}},
+            "section": "any",
+            "version": "0.7.8",
+            "dependencies": {"minecraft": "[1.12.2,1.12.3)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/m/mantle_1.3.3.55.tar",
+            "displayName": "Mantle",
+            "name": "mantle",
+            "description": "Shared code for Slime Knights mods and others.",
+            "conflicts": {},
+            "files": {"mods/Mantle-1.12-1.3.3.55.jar": {"sha256": "0975ad3ef3b8b35fe43461feabe44d406b5521b0a2f3d1965c8d2f6a59ad2e65"}},
+            "section": "any",
+            "version": "1.3.3.55",
+            "dependencies": {"minecraft": "[1.12.0,1.13.0)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/m/mantle_1.6.27.tar",
+            "displayName": "Mantle",
+            "name": "mantle",
+            "description": "Shared code for Slime Knights mods and others.\n    ",
+            "conflicts": {},
+            "files": {"mods/Mantle-1.16.1-1.6.27.jar": {"sha256": "8f7dbee00744c58a5fb9bced4c027fdf07ad773f3f550e9fc9c677d751c2d2cd"}},
+            "section": "any",
+            "version": "1.6.27",
+            "dependencies": {"forge": "[32.0.107,)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/r/refinedstorage-1.9.2.tar",
+            "displayName": "RefinedStorage",
+            "name": "refinedstorage",
+            "description": "An elegant solution to your hoarding problem",
+            "conflicts": {},
+            "files": {"mods/refinedstorage-1.9.2.jar": {"sha256": "986f5e19df5b355424d8e099b6874cd14b36a3f68a232cfedf2e6b093e33ff40"}},
+            "section": "mod",
+            "version": "1.9.2",
+            "dependencies": {"forge": "[32.0.67,33.0.0)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/r/refinedstorage-1.9.5.tar",
+            "displayName": "RefinedStorage",
+            "name": "refinedstorage",
+            "description": "An elegant solution to your hoarding problem",
+            "conflicts": {},
+            "files": {"mods/refinedstorage-1.9.5.jar": {"sha256": "c724ad25534722f9f816e6c07888403c7f048e88534e530a85252aaf078213db"}},
+            "section": "mod",
+            "version": "1.9.5",
+            "dependencies": {"forge": "[33.0.20,34.0.0)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/r/refinedstorage-1.9.9.tar",
+            "displayName": "RefinedStorage",
+            "name": "refinedstorage",
+            "description": "An elegant solution to your hoarding problem",
+            "conflicts": {},
+            "files": {"mods/refinedstorage-1.9.9.jar": {"sha256": "173de2b843cc2dd0e147f88f689edd296f06d2d31d121d8c39cf2aa948b8ec4c"}},
+            "section": "mod",
+            "version": "1.9.9",
+            "dependencies": {"forge": "[34.1.0,35.0.0)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/t/thebetweenlands_3.4.9.tar",
+            "displayName": "The Betweenlands",
+            "name": "thebetweenlands",
+            "description": "Introducing The Betweenlands... a dark and hostile environment. This large and expansive mod adds a whole new dimension to the game.",
+            "conflicts": {},
+            "files": {"mods/TheBetweenlands-3.4.9-universal.jar": {"sha256": "95f81d9f9f62a37ef7ce23971e4ab1585fae06903441ae961f755e9940607e9c"}},
+            "section": "any",
+            "version": "3.4.9",
+            "dependencies": {"minecraft": "[1.12.2,1.12.3)"}
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/c/chisel-0.2.1.47.tar",
+            "displayName": "Chisel",
+            "name": "chisel",
+            "description": "Adds in tons of fancy blocks for decoration, crafted using the Chisel.",
+            "conflicts": {},
+            "files": {"mods/Chisel-MC1.10.2-0.2.1.47.jar": {"sha256": "02b9694e2a3d32a3122328c33e41ac06aaa1d27c5a82b8ac33c652183f0f395a"}},
+            "section": "mod",
+            "version": "0.2.1.47",
+            "dependencies": {
+                "minecraft": "[1.10.2,1.10.3)",
+                "forge": "[12.18.3,12.19.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/c/chisel-2.9.5.11.tar",
+            "displayName": "Chisel",
+            "name": "chisel",
+            "description": "Adds in tons of fancy blocks for decoration, crafted using the Chisel.",
+            "conflicts": {},
+            "files": {"mods/Chisel-2.9.5.11.jar": {"sha256": "68c8a4f4c7785f939d8fa2e7df56c76afa37dfd2574f738a07d3dfd80d6257a6"}},
+            "section": "mod",
+            "version": "2.9.5.11",
+            "dependencies": {
+                "minecraft": "[1.7.10,1.7.11)",
+                "forge": "[10.13.4,10.14.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/c/chisel-1.0.2.45.tar",
+            "displayName": "Chisel",
+            "name": "chisel",
+            "description": "Adds in tons of fancy blocks for decoration, crafted using the Chisel.",
+            "conflicts": {},
+            "files": {"mods/Chisel-MC1.12.2-1.0.2.45.jar": {"sha256": "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7"}},
+            "section": "mod",
+            "version": "1.0.2.45",
+            "dependencies": {
+                "minecraft": "[1.12.2,1.12.3)",
+                "forge": "[14.23.5.2854,14.24.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/s/storagedrawers-5.4.0.tar",
+            "displayName": "StorageDrawers",
+            "name": "storagedrawers",
+            "description": "Multi-drawer storage blocks for quick storage and retrieval.",
+            "conflicts": {},
+            "files": {"mods/StorageDrawers-1.12.2-5.4.0.jar": {"sha256": "d080a974ae03680242520091b81aa2e82ad9ff0facd139e07dfb9da5a1031768"}},
+            "section": "mod",
+            "version": "5.4.0",
+            "dependencies": {
+                "minecraft": "[1.12.2,1.12.3)",
+                "chameleon": "(,)",
+                "forge": "(,)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/s/storagedrawers-8.2.1.tar",
+            "displayName": "StorageDrawers",
+            "name": "storagedrawers",
+            "description": "Multi-drawer storage blocks for quick storage and retrieval.",
+            "conflicts": {},
+            "files": {"mods/StorageDrawers-1.16.3-8.2.1.jar": {"sha256": "6331cbfbe626af6f7ed8c0e2f6d89c5559460889fce0cc92140a176a4e981ebf"}},
+            "section": "mod",
+            "version": "8.2.1",
+            "dependencies": {
+                "minecraft": "[1.16.3,1.16.4)",
+                "forge": "[34.1.14,35.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/s/storagedrawers-8.1.0.tar",
+            "displayName": "StorageDrawers",
+            "name": "storagedrawers",
+            "description": "Multi-drawer storage blocks for quick storage and retrieval.",
+            "conflicts": {},
+            "files": {"mods/StorageDrawers-1.16.2-8.1.0.jar": {"sha256": "cf2d2bb97d57a80fd61ead3d3e81e58fa022c39325b9e0859a7f921b731f4246"}},
+            "section": "mod",
+            "version": "8.1.0",
+            "dependencies": {
+                "minecraft": "[1.16.2,1.16.3)",
+                "forge": "[33.0.0,34.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/s/storagedrawers-8.0.0.tar",
+            "displayName": "StorageDrawers",
+            "name": "storagedrawers",
+            "description": "Multi-drawer storage blocks for quick storage and retrieval.",
+            "conflicts": {},
+            "files": {"mods/StorageDrawers-1.16.1-8.0.0.jar": {"sha256": "aa9b9c9f3deb8071347ddf831b8fe6887f09749b0cb0679ac98fcc86903b7959"}},
+            "section": "mod",
+            "version": "8.0.0",
+            "dependencies": {
+                "minecraft": "[1.16.1,1.16.2)",
+                "forge": "[32.0.0,33.0.0)"
+            }
+        },
+        {
+            "filename": "/media/Data/MinecraftForge/repo/main/j/jei-7.6.0.58.tar",
+            "displayName": "Just Enough Items",
+            "name": "jei",
+            "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.\n",
+            "conflicts": {},
+            "files": {"mods/jei-1.16.4-7.6.0.58.jar": {"sha256": "7c85bff129c7e9cafa6aeb0a55379835a9614efe9f7cc165eebcf4db7690b843"}},
+            "section": "any",
+            "version": "7.6.0.58",
+            "dependencies": {
+                "minecraft": "[1.16.4,1.17.0)",
+                "forge": "[34.0.3,)"
+            }
+        }
+    ]
